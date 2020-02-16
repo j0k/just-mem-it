@@ -1,0 +1,66 @@
+[
+  {
+    "title" : "Scale Test",
+    "intervals" : [1,2,3,4,5,6,7,8,9,10,20,30,40,50,60,70]
+  },
+  {
+    "title" : "Scale Short Test",
+    "intervals" : [1,2,4]
+  },
+  {
+    "title" : "Scale Rational Ebbinghaus",
+    "intervals" : [1,1200, 28800, 86400]
+  },
+  {
+    "title" : "Scale Rational Long",
+    "intervals" : [1,1200, 86400, 172800, 5184000]
+  },
+  {
+    "title" : "Scale Rational Long 2x",
+    "intervals" : [1, 60, 1200, 60, 28800, 60, 86400, 60, 172800, 60, 5184000, 60]
+  },
+  {
+    "title"    : "Scale B.Salivan - H. Thompson",
+    "type"     : "generative",
+    "func"     : "lambda x: x[0] * 5 if (x[1] % 2 == 0) else x[0] * 6",
+    "firstVal" : 5
+  },
+  {
+    "title"    : "Scale Generative Test",
+    "type"     : "generative",
+    "func"     : "lambda x: x[0] + 1",
+    "firstVal" : 1
+  },
+  {
+    "title"    : "Scale Pow2",
+    "type"     : "generative",
+    "func"     : "lambda x: x[0] * 2",
+    "firstVal" : 1
+  },
+  {
+    "title"    : "Every 30min",
+    "type"     : "generative",
+    "func"     : "lambda x: 1800",
+    "firstVal" : 1
+  },
+  {
+    "title"    : "Every hour",
+    "type"     : "generative",
+    "func"     : "lambda x: 3600",
+    "firstVal" : 1,
+    "doneCount" : 21    
+  },
+  {
+    "title"    : "Every 4 hours",
+    "type"     : "generative",
+    "func"     : "lambda x: 3600 * 4",
+    "firstVal" : 1
+  },
+  {
+    "title"    : "Every day",
+    "type"     : "generative",
+    "func"     : "lambda x: 24 * 3600",
+    "firstVal" : 1
+  }
+
+]

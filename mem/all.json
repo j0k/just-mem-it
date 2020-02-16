@@ -1,0 +1,18 @@
+[
+  {
+    "id" : 0,
+    "title" : "skill 1",
+    "description" : "it's simple",
+    "date" : {
+      "create": 12345621.0
+    },
+    "type" : {
+      "time" : "default",
+      "obj" : "skill"
+    },
+    "iter" : [],
+    "active" : 1,
+    "paused" : true,
+    "scale" : "Scale Pow2"
+  }
+]
