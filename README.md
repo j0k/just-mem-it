@@ -20,7 +20,7 @@ mem/all.jsom           - example of memorized item
 mem/progress.priv.json - your private progress
 ```
 
-More screens and feature development phases are [here](https://silkmind.com/just-mem-it/). Calculator for time intervals used in scales is [here](https://silkmind.com/just-mem-it/times.html).
+More screens and feature development phases are [here](https://silkmind.com/just-mem-it/). Calculator for time intervals used in scales is [here](https://silkmind.com/just-mem-it/times).
 
 # HOWTO
 
