@@ -1,5 +1,5 @@
 # just-mem-it
-Just-mem-it - tool for memory and skill development
+**Just Mem It** tool is a tool for memory and skill development
 
 # run v. 0.0.1
 ```
@@ -78,3 +78,6 @@ It's works for me and it's my first python tkinter app. There are lot of improve
 * video
 
 By the way I have already learned my passport and bank cards and now work with eye-vision restoration practices.
+
+# links, search and social media
+  Official hashtag is #justmemittool
