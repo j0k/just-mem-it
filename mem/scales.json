@@ -12,9 +12,13 @@
     "intervals" : [1,1200, 28800, 86400]
   },
   {
-    "title" : "Scale Rational Long",
-    "intervals" : [1,1200, 86400, 172800, 5184000]
+    "title" : "My Scale. Fast learning",
+    "intervals" : [1,1200,1200, 86400, 86400, 1208000,1208000, 5184000, 5184000]
   },
+  {
+    "title" : "Scale Rational Long",
+    "intervals" : [1,1200, 86400, 1208000, 5184000]
+  },  
   {
     "title" : "Scale Rational Long 2x",
     "intervals" : [1, 60, 1200, 60, 28800, 60, 86400, 60, 172800, 60, 5184000, 60]

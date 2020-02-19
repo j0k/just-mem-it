@@ -1,5 +1,10 @@
+<p align="center">
+<img width="256" height="256" src="img/logo.png">
+</p>
+
 # just-mem-it
-**Just Mem It** tool is a tool for memory and skill development
+**Just Mem It** tool is a tool for memory and skill development.
+
 
 # run v. 0.0.1
 ```
