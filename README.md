@@ -37,7 +37,11 @@ More screens and feature development phases are [here](https://silkmind.com/just
 4. see the progress
 5. keep pushing forward your skill and memory development
 
-![steps](docs/screens.png)
+![steps](docs/screens.png).
+
+You can read and watch HOWTO videos here:
+- [English medium introduction](https://medium.com/@j00000k/just-mem-it-tool-remember-anything-you-want-7f1510f16f22)
+- [Russian medium introduction](https://medium.com/@j00000k/%D0%B7%D0%B0%D0%BF%D0%BE%D0%BC%D0%BD%D0%B8%D1%82%D1%8C-%D0%B7%D0%B4%D0%B5%D1%81%D1%8C-%D0%B8-%D1%81%D0%B5%D0%B9%D1%87%D0%B0%D1%81-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE-%D0%B7%D0%B0%D0%BF%D0%BE%D0%BC%D0%BD%D0%B8-just-mem-it-fc37e51da2e6)
 
 # details for scale information:
 
@@ -69,7 +73,7 @@ scale = {
 more details in urls/books
 1. [The Plateau Effect: Getting From Stuck to Success by Bob Sullivan and Hugh Thompson](https://www.amazon.com/Plateau-Effect-Getting-Stuck-Success/dp/0525952802)
 2. [Эффект плато. Как преодолеть застой и двигаться дальше, Салливан Б., Томпсон Х., 2014](https://www.chitai-gorod.ru/catalog/book/712752/)
-2. [Plateau effect](https://en.wikipedia.org/wiki/Plateau_effect)
+3. [Plateau effect](https://en.wikipedia.org/wiki/Plateau_effect)
 
 # keep in mind
 It's works for me and it's my first python tkinter app. There are lot of improvements I see:
@@ -85,4 +89,6 @@ It's works for me and it's my first python tkinter app. There are lot of improve
 By the way I have already learned my passport and bank cards and now work with eye-vision restoration practices.
 
 # links, search and social media
-  Official hashtag is #justmemittool
+
+* Official =) hashtags are **#justmemittool** and **#jmi**
+* [group in telegram](https://t.me/justmemittool)
